@@ -1,0 +1,114 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+
+	background-image: url('img/background1.jpg');
+	background-position: 50% 70%;
+
+}
+
+
+.login{
+	background: white;
+	width: 400px;
+	margin: 150 auto 0 auto;
+}
+
+.input-login {
+	display: block;
+	height: 55px;
+	width: 400px;
+	margin: 10px;
+	border-radius: 30px;
+	border: 1px solid black;
+	font-size: 16pt;
+	padding: 10px 20px;
+	background-color: rgba(255,255,255,0.01);
+	outline: none;
+}
+
+div#corpo-form{
+	width: 420px;
+	margin: 150 auto 0px auto;
+}
+
+div#corpo-form h1 {
+	text-align: center;
+	padding: 20px;
+}
+a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+}
+
+/*a:hover{
+	text-decoration: underline;
+}*/
+
+input.submit{
+	display: block;
+	height: 55px;
+	width: 400px;
+	margin: 10px;
+	border-radius: 30px;
+	font-size: 16pt;
+}
+
+::-webkit-input-placeholder{
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.card-login {
+        width: 400px;
+        margin: 150 auto 0 auto;
+}
+
+.card-body input {
+	border-radius: 30px;
+	padding-left: : 10px;
+	;	
+}
+
+.card-body button {
+	border-radius: 30px;
+}
+
+.card-login input {
+	border-radius: 30px;
+	border:solid 1px white;
+	background-color: rgba(255,255,255,0.01);
+	color: black;
+}
+
+.card-login button {
+	border-radius: 30px;
+}
+
+
+
+.card-login input:hover {
+	background-color: white;
+	color: black;
+}
+
+/*--------------------------------------------------*/
